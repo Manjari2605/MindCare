@@ -1,0 +1,11 @@
+node_modules 
+node_modules - Copy 
+/backend/node_modules 
+/frontend/node_modules 
+/dist 
+/build 
+IMG-*.jpg 
+package-lock.json 
+.vscode 
+.idea 
+.DS_Store 
